@@ -1,0 +1,112 @@
+2025-05-24 16:51:29,005 - __main__ - INFO - Connecting to Binance Futures Testnet at https://testnet.binancefuture.com/fapi/v1
+2025-05-24 16:54:18,144 - __main__ - INFO - Connecting to Binance Futures Testnet.
+2025-05-24 16:56:50,631 - __main__ - INFO - Connecting to Binance Futures Testnet.
+2025-05-24 16:57:13,168 - __main__ - INFO - Connecting to Binance Futures Testnet.
+2025-05-24 17:01:58,741 - __main__ - INFO - Connecting to Binance Futures Testnet.
+2025-05-24 17:04:58,176 - __main__ - INFO - Connecting to Binance Futures Testnet at https://testnet.binancefuture.com/fapi/v1
+2025-05-24 17:26:17,119 - __main__ - INFO - Connecting to Binance Futures Testnet at https://testnet.binancefuture.com/fapi/v1
+2025-05-24 17:28:36,085 - __main__ - INFO - Connecting to Binance Futures Testnet.
+2025-05-24 17:28:37,695 - __main__ - INFO - Successfully connected to Binance Futures Testnet. Server time ping successful.
+2025-05-24 17:30:05,527 - __main__ - INFO - Current USDT Balance: 15000.00000000
+2025-05-24 17:31:49,552 - __main__ - ERROR - API Call: GET /fapi/v1/exchangeInfo, Error: An unexpected error: 'minNotional'
+2025-05-24 17:31:49,553 - __main__ - ERROR - Cannot place order for ETHUSDT: Could not retrieve symbol information.
+2025-05-24 17:35:37,363 - __main__ - INFO - All open orders:
+2025-05-24 17:35:37,363 - __main__ - INFO - No open orders found.
+2025-05-24 17:36:42,353 - __main__ - ERROR - API Call: GET /fapi/v1/exchangeInfo, Error: An unexpected error: 'minNotional'
+2025-05-24 17:36:42,353 - __main__ - ERROR - Cannot place order for BTCUSDT: Could not retrieve symbol information.
+2025-05-24 17:37:20,705 - __main__ - ERROR - API Call: GET /fapi/v1/exchangeInfo, Error: An unexpected error: 'minNotional'
+2025-05-24 17:37:20,705 - __main__ - ERROR - Cannot place order for BTCUSDT: Could not retrieve symbol information.
+2025-05-24 17:46:04,688 - INFO - GUI application started. Click 'Connect to Binance' to begin.
+2025-05-24 17:46:15,916 - INFO - Attempting to connect to Binance Futures Testnet...
+2025-05-24 17:46:17,083 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sat May 24 17:46:17 2025
+2025-05-24 17:46:27,942 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sat May 24 17:46:27 2025
+2025-05-24 17:46:28,886 - INFO - --- Futures Account Balances ---
+2025-05-24 17:46:28,886 - INFO -   Asset: USDT, Balance: 15000.00000000, Available: 15000.00000000
+2025-05-24 17:46:29,534 - INFO - --- Futures Account Info (Partial) ---
+2025-05-24 17:46:29,534 - INFO -   Total Wallet Balance: 15000.00000000
+2025-05-24 17:46:29,534 - INFO -   Total Unrealized Profit: 0.00000000
+2025-05-24 17:53:10,553 - INFO - GUI application started. Click 'Connect to Binance' to begin.
+2025-05-24 17:53:12,826 - ERROR - Not connected to Binance. Please connect first.
+2025-05-24 17:54:59,071 - INFO - GUI application started. Click 'Connect to Binance' to begin.
+2025-05-24 17:55:05,073 - INFO - Attempting to connect to Binance Futures Testnet...
+2025-05-24 17:55:06,453 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sat May 24 17:55:06 2025
+2025-05-24 17:55:17,842 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sat May 24 17:55:17 2025
+2025-05-24 17:55:18,802 - INFO - --- Futures Account Balances ---
+2025-05-24 17:55:18,802 - INFO -   Asset: USDT, Balance: 15000.00000000, Available: 15000.00000000
+2025-05-24 17:55:19,451 - INFO - --- Futures Account Info (Partial) ---
+2025-05-24 17:55:19,451 - INFO -   Total Wallet Balance: 15000.00000000
+2025-05-24 17:55:19,451 - INFO -   Total Unrealized Profit: 0.00000000
+2025-05-24 17:59:11,480 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sat May 24 17:59:11 2025
+2025-05-24 17:59:12,132 - INFO - Order placed successfully: {
+  "orderId": 4456763208,
+  "symbol": "BTCUSDT",
+  "status": "NEW",
+  "clientOrderId": "x-Cb7ytekJ12fc985ebc37d2d328f68d",
+  "price": "0.00",
+  "avgPrice": "0.00",
+  "origQty": "0.001",
+  "executedQty": "0.000",
+  "cumQty": "0.000",
+  "cumQuote": "0.00000",
+  "timeInForce": "GTC",
+  "type": "MARKET",
+  "reduceOnly": false,
+  "closePosition": false,
+  "side": "BUY",
+  "positionSide": "BOTH",
+  "stopPrice": "0.00",
+  "workingType": "CONTRACT_PRICE",
+  "priceProtect": false,
+  "origType": "MARKET",
+  "priceMatch": "NONE",
+  "selfTradePreventionMode": "EXPIRE_MAKER",
+  "goodTillDate": 0,
+  "updateTime": 1748089751916
+}
+2025-05-24 17:59:34,200 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sat May 24 17:59:33 2025
+2025-05-24 17:59:34,841 - INFO - --- Open Orders for BTCUSDT ---
+2025-05-24 17:59:34,841 - INFO -   No open orders found.
+2025-05-24 18:00:32,131 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sat May 24 18:00:31 2025
+2025-05-24 18:00:32,335 - ERROR - Binance API Error in cancel_order: -2011 - Unknown order sent.
+2025-05-24 18:00:32,335 - ERROR - Cannot cancel order 4456763208 for BTCUSDT: Unknown order sent.
+2025-05-24 18:00:38,303 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sat May 24 18:00:38 2025
+2025-05-24 18:00:38,841 - ERROR - Binance API Error in cancel_order: -2011 - Unknown order sent.
+2025-05-24 18:00:38,841 - ERROR - Cannot cancel order 4456763208 for BTCUSDT: Unknown order sent.
+2025-05-24 18:00:42,104 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sat May 24 18:00:42 2025
+2025-05-24 18:00:42,578 - ERROR - Binance API Error in cancel_order: -2011 - Unknown order sent.
+2025-05-24 18:00:42,578 - ERROR - Cannot cancel order 4456763208 for BTCUSDT: Unknown order sent.
+2025-05-25 14:44:16,680 - INFO - GUI application started. Click 'Connect to Binance' to begin.
+2025-05-25 14:44:19,946 - INFO - Attempting to connect to Binance Futures Testnet...
+2025-05-25 14:44:19,957 - ERROR - An unexpected error during connection check: HTTPSConnectionPool(host='testnet.binance.vision', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002069EF896A0>: Failed to resolve 'testnet.binance.vision' ([Errno 11001] getaddrinfo failed)"))
+2025-05-25 14:45:58,718 - INFO - GUI application started. Click 'Connect to Binance' to begin.
+2025-05-25 14:46:01,238 - INFO - Attempting to connect to Binance Futures Testnet...
+2025-05-25 14:46:02,866 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sun May 25 14:46:06 2025
+2025-05-25 14:46:08,602 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sun May 25 14:46:12 2025
+2025-05-25 14:46:09,626 - INFO - --- Futures Account Balances ---
+2025-05-25 14:46:09,626 - INFO -   Asset: USDT, Balance: 14999.94116312, Available: 14999.94116312
+2025-05-25 14:46:10,243 - INFO - --- Futures Account Info (Partial) ---
+2025-05-25 14:46:10,244 - INFO -   Total Wallet Balance: 14999.94116312
+2025-05-25 14:46:10,244 - INFO -   Total Unrealized Profit: 0.00000000
+2025-05-25 14:48:23,462 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sun May 25 14:48:27 2025
+2025-05-25 14:48:23,973 - ERROR - Binance API Error: -4024 - Limit price can't be lower than 53461.35.
+2025-05-25 14:48:23,974 - ERROR - Cannot place order for BTCUSDT: Limit price can't be lower than 53461.35.
+2025-05-25 14:48:27,046 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sun May 25 14:48:31 2025
+2025-05-25 14:48:27,353 - ERROR - Binance API Error: -4024 - Limit price can't be lower than 53461.35.
+2025-05-25 14:48:27,354 - ERROR - Cannot place order for BTCUSDT: Limit price can't be lower than 53461.35.
+2025-05-25 14:48:32,064 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sun May 25 14:48:35 2025
+2025-05-25 14:48:32,677 - ERROR - Binance API Error: -4024 - Limit price can't be lower than 53473.49.
+2025-05-25 14:48:32,677 - ERROR - Cannot place order for BTCUSDT: Limit price can't be lower than 53473.49.
+2025-05-25 14:49:33,402 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sun May 25 14:49:37 2025
+2025-05-25 14:49:33,911 - ERROR - Binance API Error: -4164 - Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-05-25 14:49:33,912 - ERROR - Cannot place order for BTCUSDT: Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-05-25 22:05:12,780 - INFO - GUI application started. Click 'Connect to Binance' to begin.
+2025-05-25 22:05:17,106 - INFO - Attempting to connect to Binance Futures Testnet...
+2025-05-25 22:05:17,119 - ERROR - An unexpected error during connection check: HTTPSConnectionPool(host='testnet.binance.vision', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D94E79D6A0>: Failed to resolve 'testnet.binance.vision' ([Errno 11001] getaddrinfo failed)"))
+2025-05-25 22:05:52,148 - INFO - Attempting to connect to Binance Futures Testnet...
+2025-05-25 22:05:53,739 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sun May 25 22:05:57 2025
+2025-05-25 22:06:31,583 - INFO - Successfully connected to Binance Futures Testnet. Server time: Sun May 25 22:06:35 2025
+2025-05-25 22:06:32,543 - INFO - --- Futures Account Balances ---
+2025-05-25 22:06:32,543 - INFO -   Asset: USDT, Balance: 14999.94116312, Available: 14999.94116312
+2025-05-25 22:06:32,773 - INFO - --- Futures Account Info (Partial) ---
+2025-05-25 22:06:32,773 - INFO -   Total Wallet Balance: 14999.94116312
+2025-05-25 22:06:32,773 - INFO -   Total Unrealized Profit: 0.00000000
